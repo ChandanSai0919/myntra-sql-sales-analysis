@@ -16,4 +16,4 @@ SQL (Microsoft SQL Server / T-SQL), data cleaning, aggregations, joins, window f
 2. Run the .sql scripts in order
 
 ## Dataset
-Myntra sales dataset (included in this repository if under size limits).
+The analysis uses the Myntra fashion products dataset (from Kaggle), imported into Microsoft SQL Server. The SQL file in this repo contains all the queries used for the analysis.
